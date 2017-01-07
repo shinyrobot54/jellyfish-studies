@@ -91,7 +91,7 @@ table {
   color: #aa8;
   font-family: JaneAusten;
   transform: rotate(270deg);
-  margin: 0vh 100vh;
+  margin: -30vh 100vh;
   width: 70%;
 }
 
@@ -103,6 +103,7 @@ table {
   transform-origin: top left;
   float: left;
   font-size: 15vh;
+  margin: 25vh 0vh 0vh 0vh;
 }
 
 #outer {
@@ -111,12 +112,14 @@ table {
 
 #number-two {
   color: #aaa;
-  font-size: 5vh;
+  font-size: 6.5vh;
   transform: rotate(0deg);
+  margin: 80vh 0vh 48vh 2vh;
 }
 
 #o {
-  font-size: 5vh;
+  font-size: 5.5vh;
+  margin: -7.3vh 20vh 5vh 5.1vh;
 }
 
 #date {
